@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>ProveTasks.InheritanceTask2</StartupObject>
+    <StartupObject>ProveTasks.ProveKT3</StartupObject>
   </PropertyGroup>
 
 </Project>
