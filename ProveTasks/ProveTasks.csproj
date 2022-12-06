@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>ProveTasks.ProveKT4</StartupObject>
+    <StartupObject>ProveTasks.ProveKT6</StartupObject>
   </PropertyGroup>
 
 </Project>
